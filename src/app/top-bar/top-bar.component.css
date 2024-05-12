@@ -1,0 +1,33 @@
+.main-container {
+    /* background-color: greenyellow; */
+    width: 100%;
+    padding: 5px;
+    padding-top: 0px;
+}
+
+
+
+.example-chip-list {
+    width: 100%;
+  }
+
+  .custome-input-class{
+    height: 70px;
+    width: 900px;
+    border-radius: 20px;
+    background-color: #001C30;
+    color: white;
+    border: none;
+  }
+
+  .li-three-icon-custome-class{
+margin-left: 5px;
+margin-right: 5px;
+  }
+
+.li-three-icon-custome-class svg{
+
+  height: 60px;
+  width: 60px;
+
+}

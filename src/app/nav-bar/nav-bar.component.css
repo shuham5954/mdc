@@ -1,0 +1,47 @@
+
+*{
+    box-sizing: border-box;
+}
+
+.custome-class-nav-body li{
+    list-style: none;
+    text-decoration: none;
+
+}
+
+.custome-class-nav-body ul{
+       
+    list-style: none;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.custome-class-nav-body{
+    background-color: #001C30;
+    height: 60vh;
+    border: 2px solid red;
+
+    border-radius: 30px;
+    
+    
+}
+.full-height{
+display: flex;
+flex-direction: row;
+    height: 80vh;
+    padding: 5px;
+    border: 2px solid red;
+    
+}
+
+.li-custome-class{
+margin-top: 18px;
+
+
+}
+
+.li-custome-class svg {
+    width: 40px;
+    height: 40px;
+  }

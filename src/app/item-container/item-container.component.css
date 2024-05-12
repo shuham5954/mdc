@@ -1,0 +1,7 @@
+.custom-class-containerItem{
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+
+    border: 2px solid rebeccapurple;
+}
